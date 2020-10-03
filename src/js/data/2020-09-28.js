@@ -730,7 +730,8 @@ dataSet[dataSetVersion].characterData = [
     name: "아테나",
     img: "rkNNQgZ.png",
     opts: {
-      attributes: [ "4s", "d4", "pr", "fm" ]
+      attributes: [ "4s", "d4", "pr", "fm" ],
+	    			remake: true
     }
   },
 			{
@@ -1529,6 +1530,13 @@ dataSet[dataSetVersion].characterData = [
     img: "58UEJF1.png",
     opts: {
       attributes: [ "5s", "d4", "bb", "fm" ]
+    }
+  },
+			{
+    name: "아테나",
+    img: "qRoku85.png",
+    opts: {
+      attributes: [ "5s", "d6", "mg", "fm" ]
     }
   },
 	//Primal
