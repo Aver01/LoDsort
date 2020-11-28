@@ -1,4 +1,4 @@
-dataSetVersion = "2020-09-09"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2020-11-25"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
@@ -860,6 +860,13 @@ dataSet[dataSetVersion].characterData = [
       attributes: [ "4s", "d10", "bb", "fm" ]
     }
   },
+				{
+    name: "카렌",
+    img: "fxJlFTN.png",
+    opts: {
+      attributes: [ "4s", "d4", "pr", "fm" ]
+    }
+  },
 	//5s
 			{
     name: "아바돈",
@@ -1537,6 +1544,20 @@ dataSet[dataSetVersion].characterData = [
     img: "qRoku85.png",
     opts: {
       attributes: [ "5s", "d6", "mg", "fm" ]
+    }
+  },
+				{
+    name: "할로우",
+    img: "1PRI7u5.png",
+    opts: {
+      attributes: [ "5s", "d10", "bb", "fm" ]
+    }
+  },
+				{
+    name: "오웬",
+    img: "JnQofc0.png",
+    opts: {
+      attributes: [ "5s", "d4", "me", "ml" ]
     }
   },
 	//Primal
