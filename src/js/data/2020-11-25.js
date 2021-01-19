@@ -1560,6 +1560,13 @@ dataSet[dataSetVersion].characterData = [
       attributes: [ "5s", "d4", "me", "ml" ]
     }
   },
+					{
+    name: "크리스",
+    img: "zTpLf04.png",
+    opts: {
+      attributes: [ "5s", "d10", "pr", "fm" ]
+    }
+  },
 	//Primal
 			{
     name: "로우리",
